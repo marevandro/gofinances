@@ -1,0 +1,2 @@
+tecnologias usadas e instalações feitas: 
+npm install react-native-responsive-fontsize --save
