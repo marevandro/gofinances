@@ -1,2 +1,5 @@
 tecnologias usadas e instalações feitas: 
 npm install react-native-responsive-fontsize --save
+
+
+https://icons.expo.fyi/Index - icones
