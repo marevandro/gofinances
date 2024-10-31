@@ -20,6 +20,7 @@ export const Header = styled.View`
 export const UserWrapper = styled.View`
   width: 100%;
   padding: 0 24px;
+  margin-bottom: ${RFPercentage(12)}px;;
 
   flex-direction: row;
   justify-content: space-between;
@@ -63,5 +64,7 @@ export const HighlightCards = styled.ScrollView.attrs({
   showsHorizontalScrollIndicator: false,
   contentContainerStyle: { paddingHorizontal: 24 }
 })`
-
+  width: 100%;
+  position: absolute;
+  margin-top: ${RFPercentage(20)}px;
 `;
